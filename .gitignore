@@ -3,3 +3,6 @@ src/.DS_Store
 *.class
 target/.DS_Store
 .DS_Store
+.idea/sonarlint
+.idea
+gitTest.iml
